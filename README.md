@@ -31,6 +31,7 @@ Q5. Write a program to implement circularly linked list which supports the follo
     (vi) remove the element x from the circularly linked list
     (vii)Search for an element x in the circularly linked list and return its pointer 
     (viii) Concatenate two circularly linked lists
+
 Q6. Implement a stack using Array representation.
 
 Q7. Implement a stack using Linked representation. 
